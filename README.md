@@ -1,6 +1,6 @@
 # Projeto DSW - Avaliação 2
 
-**Nome:** Seu Nome Completo  
+**Nome:** Isadora da Maia Torres
 **Data:** 06/05/2025  
 **Unidade Curricular:** Desenvolvimento de Sistemas Web
 
@@ -33,9 +33,3 @@ Os códigos de status HTTP indicam o resultado de uma requisição:
 | **XML**      | Formato estruturado e mais verboso. Era muito usado antes do JSON, ainda comum em sistemas legados. |
 
 ---
-
-## 🧪 Como testar este projeto
-
-1. Instale as dependências com:
-   ```bash
-   composer install
