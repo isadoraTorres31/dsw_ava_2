@@ -33,3 +33,4 @@ $app->get('/erro', function (Request $request, Response $response) {
 });
 
 $app->run();
+?>
